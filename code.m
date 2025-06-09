@@ -16,7 +16,7 @@ subplot(2,3,5);
 imhist(e);
 imfinfo('Gated LP-670.jpg')
 [height, width, colour_planes] = size(a)
-%colormap('spring')
+colormap('spring')
 
 
 %2. By creating a GUI for the above commands:
