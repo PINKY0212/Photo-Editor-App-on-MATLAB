@@ -2,6 +2,7 @@
 
 ## Overview
 This project demonstrates basic image processing techniques using MATLAB, implemented both through direct command-line operations and a graphical user interface (GUI). The application allows users to perform various image manipulations such as grayscale conversion, edge detection, rotation, and histogram analysis.
+Video: Watch how to implement this project  https://drive.google.com/file/d/16nJsHSmrn0yfNYY9hoyoG0nokDjlx5-3/view?usp=sharing
 
 ## Features
 - **Command-Line Operations**:
